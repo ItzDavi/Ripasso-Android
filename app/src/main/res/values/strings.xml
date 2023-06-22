@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ripasso2Android</string>
+    <string name="empty_edittext_message">You must give some text to your EditText</string>
+    <string name="empty_age_spinner">You must give some data to your age spinner</string>
+    <string name="empty_radio_button">You must select one option from the radio group</string>
+
+    <string-array name="SpinnerOptions">
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+    </string-array>
+</resources>
